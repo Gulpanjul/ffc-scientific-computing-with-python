@@ -35,7 +35,7 @@ Through this course, I explored foundational concepts in Python programming, inc
 
 ## Roadmap
 
-- [ ] Learn String Manipulation by Building a Cipher
+- [X] Learn String Manipulation by Building a Cipher
 - [ ] Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 - [ ] Learn Lambda Functions by Building an Expense Tracker
 - [ ] Learn Python List Comprehension by Building a Case Converter Program
