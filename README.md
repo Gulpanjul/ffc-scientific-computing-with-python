@@ -8,14 +8,14 @@
 <p align="center">
     freeCodeCamp Course
     <br />
-    <a href="https://www.freecodecamp.org/learn/full-stack-developer/"><strong>Explore the course »</strong></a>
+    <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/><strong>Explore the course »</strong></a>
     <br />
     <br />
-    <a href="https://freecodecamp.org/certification/gulpanjul/responsive-web-design">View Certification</a>
+    <a href="#">View Certification</a>
   </p>
 </div>
 
-[![The Certification][the-certification]](https://freecodecamp.org/certification/gulpanjul/responsive-web-design)
+[![The Certification][the-certification]](#)
 
 <!-- ABOUT THE PROJECT -->
 
