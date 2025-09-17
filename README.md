@@ -37,22 +37,22 @@ Through this course, I explored foundational concepts in Python programming, inc
 
 - [X] Learn String Manipulation by Building a Cipher
 - [x] Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
-- [ ] Learn Lambda Functions by Building an Expense Tracker
+- [x] Learn Lambda Functions by Building an Expense Tracker
 - [ ] Learn Python List Comprehension by Building a Case Converter Program
 - [ ] Learn the Bisection Method by Finding the Square Root of a Number
-- [ ] Certification Project: Build an Arithmetic Formatter Project
+- [ ] **Certification Project:** Build an Arithmetic Formatter Project
 - [ ] Learn Regular Expressions by Building a Password Generator
 - [ ] Learn Algorithm Design by Building a Shortest Path Algorithm
 - [ ] Learn Recursion by Solving the Tower of Hanoi Puzzle
 - [ ] Learn Data Structures by Building the Merge Sort Algorithm
-- [ ] Certification Project: Build a Time Calculator Project
+- [ ] **Certification Project:** Build a Time Calculator Project
 - [ ] Learn Classes and Objects by Building a Sudoku Solver
 - [ ] Learn Tree Traversal by Building a Binary Search Tree
-- [ ] Certification Project: Build a Budget App Project
+- [ ] **Certification Project:** Build a Budget App Project
 - [ ] Learn Special Methods by Building a Vector Space
 - [ ] Learn Interfaces by Building an Equation Solver
-- [ ] Certification Project: Build a Polygon Area Calculator Project
+- [ ] **Certification Project:** Build a Polygon Area Calculator Project
 - [ ] Learn Encapsulation by Building a Projectile Trajectory Calculator
-- [ ] Certification Project: Build a Probability Calculator Project
+- [ ] **Certification Project:** Build a Probability Calculator Project
 
 [the-certification]: images/certification.png
