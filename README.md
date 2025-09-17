@@ -38,7 +38,7 @@ Through this course, I explored foundational concepts in Python programming, inc
 - [X] Learn String Manipulation by Building a Cipher
 - [x] Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
 - [x] Learn Lambda Functions by Building an Expense Tracker
-- [ ] Learn Python List Comprehension by Building a Case Converter Program
+- [x] Learn Python List Comprehension by Building a Case Converter Program
 - [ ] Learn the Bisection Method by Finding the Square Root of a Number
 - [ ] **Certification Project:** Build an Arithmetic Formatter Project
 - [ ] Learn Regular Expressions by Building a Password Generator
